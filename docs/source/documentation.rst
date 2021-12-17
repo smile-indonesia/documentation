@@ -68,7 +68,7 @@ Product Knowledge
 
 **3. Technical & Design**
 
-- `Internal API - Swagger <>`_
+- `Internal API - Swagger <https://api.smile-indonesia.id/api-docs#/>`_
 - `API Documentation SMILE ETL (Biofarma) <https://docs.google.com/document/d/14XQt8I7CJCqsYcfEh8xwlgYAOc6AuLDs/edit?usp=sharing&ouid=116538098423876060989&rtpof=true&sd=true>`_
 - `API Documentation SMILE ETL (DTO) <https://docs.google.com/document/d/1rTcYh-ngv0e35x6jxQuqRsAmdW_Z3H6H/edit?usp=sharing&ouid=116538098423876060989&rtpof=true&sd=true>`_
 - `API Documentation SMILE ETL (KPCPEN) <https://docs.google.com/document/d/10QgzUFMF3idNd3mftSbx8V3b9jkXj6gd/edit?usp=sharing&ouid=116538098423876060989&rtpof=true&sd=true>`_
@@ -83,7 +83,7 @@ Product Knowledge
 - `Core Transaction SMILE Mockup (Mockup) <https://drive.google.com/drive/folders/16PnQnLV1lhbZEtuDX1c0GzEraZd4NFSU?usp=sharing>`_
 - `Monitor SMILE Mockup (Figma) <https://www.figma.com/file/B6PmlRvL3hWyMGXgWYERLk/%F0%9F%92%BC-Monitor-SMILE-UNDP?node-id=1%3A12>`_
 - `Monitor SMILE Mockup (Google Drive) <https://drive.google.com/drive/folders/1NweHsypukpniTuhoinyXFUMo28H_W0tB?usp=sharing>`_
-- `source-smile-dashboard-mobile-23092021 <>`_
+- `source-smile-dashboard-mobile-23092021 <https://drive.google.com/drive/folders/1gUaGwTQccY0nR9p9drKej1bTrpWjbT8n?usp=sharing>`_
 - `SMILE System Architecture Phase 1-3 <>`_
 - `Role Management v1.4.2 <https://docs.google.com/spreadsheets/d/1xe4QTy1stZz7Q5mduR6w8lbbTel_FEY08zH8fo1eKlE/edit?usp=sharing>`_
 - `Smile Data Management & Security <>`_
