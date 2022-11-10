@@ -13,4 +13,3 @@ This data is taken from the SMILE dashboard:
  - Total Covid Vaccine that has been injected as of October 6, 2021: **142,638,354**
  - Total distribution of Routine vaccines per October 6, 2021: **2.500.063**
  - Total Covid Vaccine that has been distributed but not yet injected: **44,585,690**
- - There are **668** monitored active refrigerators to store vaccines throughout Indonesia
