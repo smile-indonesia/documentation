@@ -39,4 +39,16 @@ Output:
 .. image:: images/Development-3.png
   :width: 700
 
-Phase 4
+
+**4th Phase**
+-----
+The objective of this phase is to enhance the software on the inventory modules, disposal for waste management, integration with the Ministry of Health Republic Indonesia, and Annual Planning. Since SMILE has a huge database, the infrastructure is adding more servers becoming 5 servers for databases. Those servers have specific services to handle like OLTP, cron Job, OLAP, etc. Besides that, other application owned by the ministry of health wants to collect data from SMILE because SMILE has comprehensive data on inventory, and the Integration API is developed to overcome those challenges.
+
+Output:
+- Enhancement in inventory modules by adding activity in transaction and order menu. This activity eases the user to record material based on the actual transaction in the health facility.
+- The disposal menu aims to record the supply chain in waste management. Several waste material can not be disposed of by the facility itself, it needs to be distributed to other facilities like District Health Office and Provincial Health Office. The disposal Menu tracks waste material whether disposed of by facility or distributed to other facilities.
+- Develop and customized API for integration with the ministry of health. The ministry of health such as DTO, ASIK, and E-Monev will get data from API SMILE.
+- Enhancement in Annual Planning by adding an approval process from the district office of Health (DOH) to the provincial office of health (POH). POH will review the annual planning first before it is approved and collected by the ministry of health.
+
+.. image:: images/Development-4.png
+  :width: 700
