@@ -69,8 +69,12 @@ Some of the main features of Order and fulfillment management:
 -	Order shipment tracking
 -	Order tracking history
 -	QR code for VIAL
-   
-**c.  Temperature Logger Monitoring**
+
+**3.	Asset Management**
+-----
+The objective of the asset feature is to monitor, create, edit, and update the asset (temperature logger and refrigerator). It is easy to create a new asset by filling out the form in the website menu. The user can monitor the latest temperature from the logger and also get notified if the temperature is over the threshold value.
+
+**Temperature Logger Monitoring**
 
 .. image:: images/tlm-01.png 
    :width: 200 
@@ -84,7 +88,7 @@ When a problem occurs, the system will automatically give an alarm via SMS to th
 .. image:: images/indicators.png 
    :width: 700 
 
-**3. Dashboard**
+**4. Dashboard**
 -----
 **a. COVID19**
 
@@ -106,7 +110,7 @@ Total receipts, returns, distributions, distribution returns, total disposals, t
       
 All data displayed in the Covid dashboard is also contained in the routine dashboard. The difference is that the routine dashboard displays other routine vaccines such as BCG, polio, diphtheria, and so on. This routine vaccination dashboard also shows overview data such as refrigerator temperature for vaccine storage, stock activity, leveling entity, and other information. 
 
-**4. Report**
+**5. Report**
 -----
 
 .. image:: images/report.png 
@@ -124,7 +128,7 @@ The reports available in this report feature include:
 -	Filter/search report based on category
 -	Export report (inventory, order, asset, master data)
 
-**5. Vaccine Planning**
+**6. Vaccine Planning**
 -----
 
 .. image:: images/vaccine-planning.png 
