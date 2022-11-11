@@ -20,6 +20,7 @@ SMILE is an innovative technology solution to strengthen the immunization vaccin
 SMILE is developed by local developers under the requirements, supervision, and management of the SMILE UNDP Project. SMILE is available in Bahasa (the main language) and supports bilinguals (in English). Application development software and supporting software using open-source software. The source code of Smile and its releases are owned by UNDP, as is the intellectual property.
 
 **Impact in Numbers**
+
 This data is taken from the SMILE dashboard:
 
 All vaccine inventories digitized at **5126** cold chain points in Indonesia, linking to **3883** Entities (Ministry of Health, Province, District/Region, Hospitals, Puskesmas)
