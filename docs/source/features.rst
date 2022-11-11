@@ -150,3 +150,23 @@ The Annual Planning for the next vaccine distribution including:
 -	Create forecast bottom up
 -	List, detail publish, adjust, delete forecast
 -	Realization management
+
+**7. Disposal Management**
+-----
+
+.. image:: images/diposal-stock.png 
+   :width: 300 
+.. image:: images/diposal-shipment.png 
+   :width: 300
+.. image:: images/diposal-self.png 
+   :width: 300
+
+Disposal Management aims to record waste material in health facilities. Because not all waste can be disposed of at the facility, SMILE has the capability of sending waste to other facilities on a higher level. Because the user can see the reason for the discard transaction, they can decide whether to dispose of the waste themselves or send it to other facilities.
+
+This Disposal feature consists of several functionalities, including:
+   - After a discard transaction is created, update the disposal stock directly.
+   - View Stock of Disposal and get detail the reason of discard.
+   - When the facilities dispose of material on their own, they can create a self-disposal transaction.
+   - Sent to other facilities.
+   - Receive from disposal distribution.
+   - Cancel disposal distribution.
