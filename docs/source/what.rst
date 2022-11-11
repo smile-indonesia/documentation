@@ -18,7 +18,7 @@ SMILE is developed by local developers under the requirements, supervision, and 
 2. SMILE Website Dashboard: This dashboard is implemented for data visualization of vaccine distribution throughout Indonesia, explained with details of existing vaccine conditions.
 3. SMILE Mobile Dashboard: The function of this feature is to view vaccine distribution data and storage device data, and to monitor vaccine temperatures throughout Indonesia via mobile devices.
 
-SMILE 2.0 is available in Bahasa (the main language) and supports bilinguals (in English). Application development software and supporting software using open-source software. The source code of Smile 2.0 and its releases are owned by UNDP, as is the intellectual property.
+SMILE is available in Bahasa (the main language) and supports bilinguals (in English). Application development software and supporting software using open-source software. The source code of Smile and its releases are owned by UNDP, as is the intellectual property.
 
 
 .. note::
