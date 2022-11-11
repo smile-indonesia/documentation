@@ -17,27 +17,4 @@ Welcome to SMILE's documentation!
 
 SMILE is an innovative technology solution to strengthen the immunization vaccine supply chain system in Indonesia. SMILE can provide real-time information on all vaccine stocks along with actual storage temperatures. This real time data can be viewed on a web or application-based dashboard by program managers at districts, province, and national levels. All vaccine stocks are digitized by trained cold chain handlers through a smartphone application and the data is uploaded on a cloud server.
 
-SSMILE is developed by local developers under the requirements, supervision, and management of the SMILE UNDP Project. SMILE is available in Bahasa (the main language) and supports bilinguals (in English). Application development software and supporting software using open-source software. The source code of Smile and its releases are owned by UNDP, as is the intellectual property.
-
-.. note::
-
-   This project is under active development.
-
-Contents
---------
-
-.. toctree::
-
-   what
-   what-does
-   transaction
-   supply chain
-   benefit
-   impact
-   Development
-   features
-   architecture
-   methodology
-   stack
-   documentation
-  
+SMILE is developed by local developers under the requirements, supervision, and management of the SMILE UNDP Project. SMILE is available in Bahasa (the main language) and supports bilinguals (in English). Application development software and supporting software using open-source software. The source code of Smile and its releases are owned by UNDP, as is the intellectual property.
