@@ -1,5 +1,5 @@
 Technology Stack
 =====
 
-.. image:: images/technology-stack.png
+.. image:: images/tech_stack.png
   :width: 700
