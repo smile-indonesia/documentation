@@ -4,11 +4,11 @@ Development Methodology
 SMILE is developed using Agile Methodology. Agile methodology is a process framework within which people can address complex adaptive problems while productively and creatively delivering products of the highest possible value. The value given by scrum methodology is courage, focus, commitment, respect and openness. 
 
 With the following details below:
-1.	Courage - people in team should have the courage to do the right thing and work on tough problem
-2.	Focus - We will develop the application with a focused and targeted for every need that are available
-3.	Commitment - people in team commit to achieving the goals
-4.	Respect - peoples in team respect each other to be capable, independent people
-5.	Openness - people in the team and its stakeholders agree to be open about all the work and the challenges with performing the work.
+   1.	Courage - people in team should have the courage to do the right thing and work on tough problem
+   2.	Focus - We will develop the application with a focused and targeted for every need that are available
+   3.	Commitment - people in team commit to achieving the goals
+   4.	Respect - peoples in team respect each other to be capable, independent people
+   5.	Openness - people in the team and its stakeholders agree to be open about all the work and the challenges with performing the work.
 
 Beside the value, there are some flowing processes that include in Scrum methodology used by developing this application:
 
@@ -39,4 +39,5 @@ In the scrum process after the team has worked on the project backlog. The devel
  
 In the sprint review process, if there is feedback, it can be submitted to the development team so that they can correct the errors found on the system. The development team will convey the error later in the next sprint along with the things that are done on the sprint. In this section the value found in the scrum methodology is openness.
 
-
+.. image:: images/dev-practice.png
+   :width: 700 
