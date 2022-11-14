@@ -104,3 +104,27 @@ Prometheus is used to gather data from the underlying operating system. It can b
 Grafana 
 -----
 Grafana is used as a dashboard to monitor the usage of the server, which the data is supplied by prometheus.
+
+Infrastructure
+=====
+There are two managed infrastructure of SMILE application: Staging environment and Production environment. In Addition, production infrastructure is append to Disaster Recovery System.
+
+Disaster Recovery System  
+-----
+.. image:: images/drc-connection.png
+  :width: 700
+  
+Staging 
+-----
+.. image:: images/infra-staging.png
+  :width: 700
+
+Staging Infrastructure is managed in AWS services using EKS (Elastic Kubernetes Services) as the container orchestration which configured to handle large scale of requests using auto-scalable pattern horizontally and  vertically.
+The database is configured on the managed service AWS RDS MySQL 8.0.
+
+Production 
+-----
+.. image:: images/infra-prod.png
+  :width: 700
+  
+Production Infrastructure is on premise server in Ministry of Health Data Center. Consist of 5 nodes of Openshift, and 5 nodes of VM databases configured with multi-master percona xtradb cluster.
