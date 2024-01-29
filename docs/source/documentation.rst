@@ -93,3 +93,4 @@ Product Knowledge
 - `Backup and restore <https://docs.google.com/document/d/1h-1zQ0osdhjDA0CLDH6eIiT6JNPAPyPv9esl-tvCQPg/edit?usp=sharing>`_
 - `Security Test Document <>`_
 - `Load Test Document <>`_
+- `Role Management v1.4.2 <https://badractive.sharepoint.com/:w:/s/SMILE-UNICC/EXvsOTTVY-JAuRtMeZNYmtUBHAuVU7I25tulkay5tFrogQ?e=lKJftC>`_
