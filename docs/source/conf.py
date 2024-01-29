@@ -3,7 +3,7 @@
 # -- Project information
 
 project = 'SMILE UNDP'
-copyright = '2022, UNDP'
+copyright = '2024, UNDP'
 author = 'UNDP'
 
 release = '1.0'
