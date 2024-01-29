@@ -8,13 +8,12 @@ Guidelines
 
 **1. Manual Installation**
 
-- `[Google Kubernetes Engine] Installation Manual SMILE <https://docs.google.com/document/d/1dKxWuo63Lb0rZZ1MBMQQTc834hXWKfTTffBJXJxu5sg/edit?usp=sharing>`_
-- `[Openshift] Installation Manual SMILE <https://docs.google.com/document/d/1wRFiIeDHXpn_lOMJY9Ff5b1YvMYxw_vY22IGz4wSs9s/edit?usp=sharing>`_
+- `[Kubernetes Engine] Installation Manual SMILE <https://badractive.sharepoint.com/:b:/s/SMILE-UNICC/EaqEZU6p9RVGtNw2H_YySAkBxP_uLa-Kmy1PdMvIpZq7Qg?e=h40eon>`_
 
 **2. User Guide**
 
 - Setting:
- - `Quick Guide Change Password <https://docs.google.com/presentation/d/1xHPzlqHfQNAcgqKcIkR_8gAszCHmiS8L/edit?usp=sharing&ouid=106356420506402440718&rtpof=true&sd=true>`_
+ - `Quick Guide Change Password <https://badractive.sharepoint.com/:p:/s/SMILE-UNICC/EdGXKlxFEnFHk9GpUaSWpVAB3YoMcjRFjpd4T4bmr3awyQ?e=NGA0N9>`_
 
 - COVID-19:
  - `[MOBILE] Quick Guide COVID-19 (v1.5.6 - 06072021 <https://docs.google.com/presentation/d/1MAeP3l2tMyeRsYbtBNoW7v_JwDWtARWU/edit?usp=sharing&ouid=106356420506402440718&rtpof=true&sd=true>`_ 
