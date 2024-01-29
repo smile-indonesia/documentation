@@ -14,82 +14,88 @@ Guidelines
 
 - Setting:
  - `Quick Guide Change Password <https://badractive.sharepoint.com/:p:/s/SMILE-UNICC/EdGXKlxFEnFHk9GpUaSWpVAB3YoMcjRFjpd4T4bmr3awyQ?e=NGA0N9>`_
+ - `Quick Set Period of Stock Opname <https://badractive.sharepoint.com/:p:/s/SMILE-UNICC/EY2Iuz-viG9DsuSDGr5Ox0IBf7xJYQAQH4rcwK19yd2EWg?e=BJS5Xr>`_
 
-- COVID-19:
- - `[MOBILE] Quick Guide COVID-19 (v1.5.6 - 06072021 <https://docs.google.com/presentation/d/1MAeP3l2tMyeRsYbtBNoW7v_JwDWtARWU/edit?usp=sharing&ouid=106356420506402440718&rtpof=true&sd=true>`_ 
- - `[MOBILE] Quick Guide COVID-19_REALLOCATION - Kako ke Puskesmas (v1.5.6 - 08072021) <https://docs.google.com/presentation/d/1MAeP3l2tMyeRsYbtBNoW7v_JwDWtARWU/edit?usp=sharing&ouid=106356420506402440718&rtpof=true&sd=true>`_ 
- - `[WEB] Quick Guide COVID-19 (v1.5.7 - 25082021) <https://docs.google.com/presentation/d/1cV5sjVYwntNQr43sDHwa9riGLDmknTbj/edit?usp=sharing&ouid=106356420506402440718&rtpof=true&sd=true>`_ 
- - `[WEB] Quick Guide OBLIK ALLOCATES COVID-19 LOGISTICS (v1.4.2 - 23032021) <https://docs.google.com/presentation/d/1tEUwqk1m618VJUo0GVVla3uhCzpm6rXl/edit?usp=sharing&ouid=106356420506402440718&rtpof=true&sd=true>`_ 
- - `[WEB] Quick Guide ROUTINE (v1.2.0 - 25022021) <https://docs.google.com/presentation/d/1cV5sjVYwntNQr43sDHwa9riGLDmknTbj/edit?usp=sharing&ouid=106356420506402440718&rtpof=true&sd=true>`_ 
+- ORDERS:
+ - `[MOBILE] Quick Guide Create Allocation <https://badractive.sharepoint.com/:p:/s/SMILE-UNICC/EWyf1JipbKBJh3WcMk5jMcIBsSnfgBIG8QzcSuqwRT8GoQ?e=SqzpAh>`_ 
+ - `[MOBILE] Quick Guide Create Orders <https://badractive.sharepoint.com/:p:/s/SMILE-UNICC/EXdvKAuvkuNPvzFZK5kFzscBohBbzKGTXCJW2cyZDDzpqA?e=kij03S>`_ 
+ - `[MOBILE] Quick Guide Create Return of Distribution <https://badractive.sharepoint.com/:p:/s/SMILE-UNICC/ETohf6dTW7hKtdwTjqG1EaIBamrRE8AqJNynhuROsw8LJA?e=eLsCVE>`_ 
+ - `[MOBILE] Quick Guide Confirm, Allocate, Ship and Receive Orders <https://badractive.sharepoint.com/:p:/s/SMILE-UNICC/ERwGXMdT5cFKnlgyUROuKAgBRLezVFd8lJ3Ue6p1ItJ77g?e=Ls9OMJ>`_ 
+ - `[WEB] Quick Guide Create Allocation <https://badractive.sharepoint.com/:p:/s/SMILE-UNICC/ERLvHaez6s9KtE5TpVaZs0EBJYQJzlJA3f4Qr7NUMxn0GQ?e=JceGY0>`_ 
+ - `[WEB] Quick Guide Create Orders <https://badractive.sharepoint.com/:p:/s/SMILE-UNICC/EQWWzPACJL1Krq7zjDMhzBQBzh7-mJFyqr15779-9EGObg?e=Xahqiq>`_ 
+ - `[WEB] Quick Guide Create Return of Distribution <https://badractive.sharepoint.com/:p:/s/SMILE-UNICC/ESJLcE0QwWxNhozCnDRe680BSa1L7TMdxCVvFQkSEhqCgg?e=ZMWBep>`_ 
+ - `[WEB] Quick Guide Confirm, Allocate, Ship and Receive Orders <https://badractive.sharepoint.com/:p:/s/SMILE-UNICC/EaZ-wT6OITFBib2Kz8ObXGgBhUuFMtCLzcCIOsC1VoecPA?e=tFv6Pt>`_ 
+ - `[WEB] Quick Guide Create Central Deliver <https://badractive.sharepoint.com/:p:/s/SMILE-UNICC/EeaLHoUspT9Ioa3CARbvOCcB8Y1X2-xTHltCxCyvel814Q?e=aMgaas>`_ 
 
-- Routine:
- - `[MOBILE] Quick Guide Health Facilities Return for Routine Immunization <https://docs.google.com/presentation/d/1l7oNxDLLxawRHSIbrMCqTbks5OxH_0NE/edit?usp=sharing&ouid=106356420506402440718&rtpof=true&sd=true>`_ 
- - `[MOBILE] Quick Guide Delayed Order Allocation - Routine (v1.6.1 - 08092021) <https://docs.google.com/presentation/d/1VgTSoxeVzAyf_rvUDMZCn_8qLch5NDoU/edit?usp=sharing&ouid=106356420506402440718&rtpof=true&sd=true>`_ 
- - `[MOBILE] Quick Guide Accept order for Routine Immunization (v1.6.1 - 08092021) <https://docs.google.com/presentation/d/1HQGyyHwFFulMVi5psc6IR3jqK371qZPC/edit?usp=sharing&ouid=106356420506402440718&rtpof=true&sd=true>`_ 
- - `[WEB] Quick Guide Delayed Order Allocation for Routine Immunization (v1.6.1 - 08092021) <https://docs.google.com/presentation/d/1BHxTrWTMFOiw0CbNlEsLAYWcnTvqTE0M/edit?usp=sharing&ouid=106356420506402440718&rtpof=true&sd=true>`_ 
- - `[WEB] Quick Guide Create New Order <https://docs.google.com/presentation/d/1-JmbdygdFgYY0xrmtNhomdfTbmKTjc5y/edit?usp=sharing&ouid=106356420506402440718&rtpof=true&sd=true>`_ 
- - `[WEB] Quick Guide Transfer BIAS to Routine (v1.6.1 - 08092021) <https://docs.google.com/presentation/d/15x8cmlEQ4DdZPgJ9Z8U_J_9G1ZO0uBtz/edit?usp=sharing&ouid=106356420506402440718&rtpof=true&sd=true>`_ 
- - `[WEB] Quick Guide Accept Routine Immunization Order (v1.6.1 - 08092021) <https://docs.google.com/presentation/d/1jbCOHQG_FTJPagTGE2k5V6yibRT23gu3/edit?usp=sharing&ouid=106356420506402440718&rtpof=true&sd=true>`_ 
- - `[WEB] National Flow (v1.2.0 - 26022021) <https://docs.google.com/document/d/1taD11noEQH3pYDAgW5rQ4HFCtHDwdFSZ6UGlhSPOK0E/edit>`_ 
- - `[WEB] Quick Guide Routine Immunization Order (v1.1.4 - 22022021) <https://docs.google.com/document/d/188gNoebS--ss0MOlT6Q1iHJaHa51vCjLnJriBZkWwVg/edit>`_ 
- - `[WEB] Quick Guide SMILE 2.0 Routine Issues <https://docs.google.com/presentation/d/1-8yEEJIzumXuNJ4Dac4IsUTWJLjqXSL0VicZN9Ifm6Y/edit#slide=id.geed3ebc9cb_0_99>`_ 
- - `[WEB] Quick Guide SMILE 2.0 Heath Facilities Return for Routine Immunization <https://docs.google.com/presentation/d/1CyXwr3wHFEo6NVdqoIBu1XmVlqwtbn9jF2P1ssNn2Mc/edit#slide=id.geedb2677e6_0_103>`_ 
- - `[WEB] Quick Guide SMILE 2.0 Add/Subtract Stock <https://docs.google.com/presentation/d/1iN76C78Dc1EkpdxbAn2bNmut1PvXB6FQOGoLfPzOrTA/edit#slide=id.geed7668430_0_154>`_ 
+- INVENTORY:
+ - `[MOBILE] Quick Guide Create Transaction and see List of Transaction <https://badractive.sharepoint.com/:p:/s/SMILE-UNICC/Eatlc12gzXpPv3fVR5cXwocBPrg1cocSLfk4BL269o_77A?e=PYmpUb>`_ 
+ - `[MOBILE] Quick Guide Create Transaction and see List of Transaction - Logistic <https://badractive.sharepoint.com/:p:/s/SMILE-UNICC/EcJlWD6KLBhNuw-1Mf1Q3EQB7K0h1AyNlRR6rYV7bnFeoA?e=7GtXda>`_ 
+ - `[WEB]  Quick Guide Create Transaction and see List of Transaction <https://badractive.sharepoint.com/:p:/s/SMILE-UNICC/EXQLMG9_E7VDhSKnzpI4MIgBngDv_XNgkXZBUKYqz3XM4g?e=QbWcxe>`_ 
+ - `[WEB] Quick Guide Create Add Stock for Logistic <https://badractive.sharepoint.com/:p:/s/SMILE-UNICC/EdLcxvsLMABJpdQXn0cBMugB5hi8HNkqS_FlgWyvxC4nVw?e=JBdJ6D>`_ 
+
+
+- Disposal: 
+ - `[MOBILE] Quick Guide Manage Dispose Material <https://badractive.sharepoint.com/:p:/s/SMILE-UNICC/EWPLonBC0fBGgCZvPUM0wB0BMCZ1gC4hoGjTKtQBH65tKA?e=iYF0h6>`_ 
 
 - Asset: 
- - `[WEB] Quick Guide Setup Asset (v1.1.4 - 22022021) <https://docs.google.com/presentation/d/1uslksE7Ss2SaZ5k-OIgA9vGoJ84kyHVi/edit?usp=sharing&ouid=106606527255452371589&rtpof=true&sd=true>`_ 
- - `[MOBILE] Quick Guide View Temperature and Change Cold-Chain status (v1.6.0 - 08092021) <https://docs.google.com/document/d/1ioW0H0I2K79jNjcKXX5ZNDMJ4QgiI6oyA0NYpBhyZXo/edit>`_ 
+ - `[WEB] Quick Guide Setup Asset (v1.1.4 - 22022021) <https://badractive.sharepoint.com/:b:/s/SMILE-UNICC/EdYRmLA1e-hBppkWeDS_KEEBFO42hCyUgA8wKJgS_IlBuw?e=WziJEn>`_ 
+ - `[MOBILE] Quick Guide View Temperature and Change Cold-Chain status (v1.6.0 - 08092021) <https://badractive.sharepoint.com/:b:/s/SMILE-UNICC/EcrcxQwCjbtKp_T2FzhLQxgB9gSsD1oOR-yBQN38Qu2jCw?e=EzQeAp>`_ 
 
 - Report:
- - `[WEB] Quick Guide Monthly Report 12.08.21 <https://docs.google.com/document/d/1Hd0fvgma5Vr8djDLih6FdkaRHcEUc_Ud/edit#>`_ 
- - `[WEB] Quick Guide View Stock (v1.6.2 - 24092021) <https://docs.google.com/presentation/d/1uEALwCQx89kGVlZT-uvthPUipe18dp3P/edit#slide=id.p1>`_ 
- - `[WEB] Quick Guide View Book Report Stock - WEB (v1.6.0 - 13082021) <https://docs.google.com/presentation/d/1Lj3Nf0x3XoQtcJEqtDYDhOJq7A32E5Ih/edit#slide=id.p1>`_ 
+ - `[WEB] Quick Guide Monthly Report 12.08.21 <https://badractive.sharepoint.com/:b:/s/SMILE-UNICC/EQyl0ll9mAdBjHD1U04OGWsBEhpLSRjsxWvHydSWfUlfBg?e=psa7jX>`_  
+ - `[WEB] Quick Guide View Book Report Stock - WEB (v1.6.0 - 13082021) <https://badractive.sharepoint.com/:p:/s/SMILE-UNICC/EY8RzH8dqaFKqV0hNmuTZR0BZQNUI-oRzD4l51dI3hvo9Q?e=hbw73O>`_ 
+ - `[WEB] Quick Guide User Activity <https://badractive.sharepoint.com/:b:/s/SMILE-UNICC/ESHCMgf0BNBKtQNx20g927ABTQRYxwtpmRVGDvFTqOE3tw?e=xsF410>`_ 
+ - `[WEB] Quick Guide Report of Count Transactions <https://badractive.sharepoint.com/:p:/s/SMILE-UNICC/ESAAfM-Yqq5KhKdVvVDmEhwBYoY6tdKSDHMzzz-hQUpzUQ?e=xWRTYr>`_
+ - `[WEB] Quick Guide Report of Stock Availability <https://badractive.sharepoint.com/:p:/s/SMILE-UNICC/EaNF3PC0ng1EokUrrboctRABMAr_FeehwNWGgYqz84rUOQ?e=uHwHsR>`_
+ - `[WEB] Quick Guide Report of Consumption and Supply <https://badractive.sharepoint.com/:p:/s/SMILE-UNICC/EQ5ae40GvvdGi5VSNLr2Q_8BlC3WPJKZuyxbGCXeUe7zCg?e=HoCODc>`_
+ - `[WEB] Quick Guide Report of Discard <https://badractive.sharepoint.com/:p:/s/SMILE-UNICC/ETRRLJ-rInxDsOlNnVAk_6cBfZ7IwxFSJCQ4hNbgsnIJpA?e=Wt05Q6>`_
+ - `[WEB] Quick Guide Report of Zero Stock <https://badractive.sharepoint.com/:p:/s/SMILE-UNICC/Edlh1UtlLRZChBGwr_BwjlQBHTZjxEGJJVgaHzfYkztyFA?e=FUO8HX>`_
+ - `[WEB] Quick Guide Report of Replenishment to Normal <https://badractive.sharepoint.com/:p:/s/SMILE-UNICC/EX82chDrO_JNtfqKkmy0NEcBukYVXDDPCUK8TV-QWYxMDw?e=lgEVHI>`_
+ - `[WEB] Quick Guide Report of Order Difference <https://badractive.sharepoint.com/:p:/s/SMILE-UNICC/Ef5x6Q8cA4pAt2jle70AsSABrPZscLb1H6Fz8udbLo7mZg?e=Gan8Kd>`_
+ - `[WEB] Quick Guide Yearly Report <https://badractive.sharepoint.com/:p:/s/SMILE-UNICC/Ef6aYOFQiadKvCq1i6Yt8yIB6xB04huTN6zUgcnM7YAUmw?e=N8sW9E>`_
+ - `[WEB] Quick Guide Report of Order Response <https://badractive.sharepoint.com/:p:/s/SMILE-UNICC/EWl1VhaXdVBHl7nBlqhm9MMBgTHh7qj-6EYXQYwKqdeWEg?e=5a1P8q>`_
 
 - Dashboard:
- - `[WEB] User Guide COVID-19 Dashboard 12.08.21 <https://docs.google.com/document/d/1DadIwrF-LYMfYYt3CAVZ3xWaVPx3EjWi/edit#>`_ 
- - `[WEB] User Guide Routine Dashboard <https://docs.google.com/document/d/1GNT3R4WAM5GiqwvRMu3v1SwDBlT3LJC1/edit#>`_ 
- - `[WEB] Quick Guide Transaction (v1.6.0 - 12082021) <https://docs.google.com/presentation/d/1n79_EQQF7kQTn6NNsDidBwO6CAdrP39s/edit#slide=id.p1>`_ 
- - `[WEB] Quick Guide Consumed Page <https://docs.google.com/presentation/d/1e6w_ueWNkfVlLM4Ji2iVcgNpZbFAw50b/edit?usp=sharing&ouid=116538098423876060989&rtpof=true&sd=true>`_ 
+ - `[WEB] User Guide COVID-19 Dashboard 12.08.21 <https://badractive.sharepoint.com/:w:/s/SMILE-UNICC/EYz7iI60N4VDkBqvkg9C-Z4BJvdlrELeN2OkIIrLCETH8Q?e=3PlelR>`_ 
+ - `[WEB] User Guide Routine Dashboard <https://badractive.sharepoint.com/:w:/s/SMILE-UNICC/EU-8syZRelZAjmPi-GFRu64BR_f5KMn8dq_vWrGPY4z-aw?e=joegIl>`_ 
+ - `[WEB] Quick Guide Consumed Page <https://badractive.sharepoint.com/:p:/s/SMILE-UNICC/EZ8gZlHraNVNh075YTjY2G4B8vR9QgxX1D7NQhPjmmsKvA?e=HTE7sB>`_ 
 
 Product Knowledge
 ----------------
 
 **1. Overview**
 
-- `Executive Summary PPT <https://docs.google.com/presentation/d/1-JqU5oAd9VilWLfA17o3OK-IYPxcVjG0/edit#slide=id.p3>`_
-- `Executive Summary Word <https://docs.google.com/document/d/1cSWQDnIFvmx-te_0yB1Q8ealHSXtr1maHmwwBEErUKE/edit#>`_
+- `Executive Summary PPT <https://badractive.sharepoint.com/:p:/s/SMILE-UNICC/EVZWbkFzAoNLv4EQWaj-AnYB1-YOr2prhf_kOFhBG5Mn6g?e=dG67Vr>`_
 
 **2. Business Needs**
 
-- `Business Requirement Document SMILE v1 <https://drive.google.com/file/d/1pARJ6-jR_HsDY5SpTPgrLDO9ub_lcLFX/view?usp=sharing>`_
-- `Business Requirement Document SMILE v2 <https://drive.google.com/file/d/1-uXHeS62pHkExe2t8JXXwwThEHkeL4u4/view?usp=sharing>`_
-- `Business Requirement Document SMILE v3 <https://drive.google.com/file/d/1XKTy1JqEw_L9LDVeu2lr735fbn5Li5kC/view?usp=sharing>`_
+- `Business Requirement Document SMILE v1 <https://badractive.sharepoint.com/:w:/s/SMILE-UNICC/EXNHzTNs6INDviTuc4gl9dsBAPrzjXmboOdy0E82vFFe_Q?e=A1wT0o>`_
+- `Business Requirement Document SMILE v2 <https://badractive.sharepoint.com/:w:/s/SMILE-UNICC/Ea2cqdjSYz1BuoL3aHCHkdgBQHmjnLGa5ntt1HPRe5Iuyg?e=bqryge>`_
+- `Business Requirement Document SMILE v3 <https://badractive.sharepoint.com/:w:/s/SMILE-UNICC/EQJTGuOQrVBPhfIp-1N0G_4BVOq5tFHS-MT73sXmfHuVRg?e=S9FS7S>`_
 
 **3. Technical & Design**
 
 - `Internal API - Swagger <https://api.smile-indonesia.id/api-docs#/>`_
-- `API Documentation SMILE ETL (Biofarma) <https://docs.google.com/document/d/14XQt8I7CJCqsYcfEh8xwlgYAOc6AuLDs/edit?usp=sharing&ouid=116538098423876060989&rtpof=true&sd=true>`_
-- `API Documentation SMILE ETL (DTO) <https://docs.google.com/document/d/1rTcYh-ngv0e35x6jxQuqRsAmdW_Z3H6H/edit?usp=sharing&ouid=116538098423876060989&rtpof=true&sd=true>`_
-- `API Documentation SMILE ETL (KPCPEN) <https://docs.google.com/document/d/10QgzUFMF3idNd3mftSbx8V3b9jkXj6gd/edit?usp=sharing&ouid=116538098423876060989&rtpof=true&sd=true>`_
-- `API Documentation SMILE Live Connection (KPCPEN) <https://docs.google.com/document/d/1ce5eBFa7hmNyyldAUMeV0oRTeIXGHgB_/edit?usp=sharing&ouid=116538098423876060989&rtpof=true&sd=true>`_
-- `IoT API Documentation <https://docs.google.com/document/d/1vSSDymYyKgqhVOhMj3C9gHrFHUKDoH6R/edit?usp=sharing&ouid=116538098423876060989&rtpof=true&sd=true>`_
-- `v0.3 - [PHASE OCT 20-MAR 21] User Stories - Smile Inventory Management UNDP <https://docs.google.com/spreadsheets/d/1buzDPcbfTn6488LujA4GAGgJ4pC_3LJaGY2yk3plZT4/edit#gid=1669400692>`_
-- `v0.4 - [PHASE APR-DEC 21] User Stories - Smile Inventory Management UNDP <https://docs.google.com/spreadsheets/d/1Ck9E78fF2vvw3Q2ACsxbMsMCG0aSMJiEOfFToO5gD9A/edit#gid=2112243867>`_
-- `v0.3 - [PHASE DEC 20-MAR 21] User Stories - Fase 3 Smile UNDP <https://docs.google.com/spreadsheets/d/1zKm2qjzsfRp41PocS5rAuT1EZxNPXVXN1PFRCM7K0EI/edit#gid=278140922>`_
-- `v0.4 - [PHASE APR - DEC 21] User Stories Dashboard Enhancement <https://docs.google.com/spreadsheets/d/1i0rmr-_nIOiigdUwqSMPjvZexxgiT3odD1bJqNz7Rm4/edit#gid=203688542>`_
-- `Dashboard Mobile Product Backlog <https://docs.google.com/spreadsheets/d/142Xfl5tbh5apZzPn8-WHRBVqryv9FEny5YzAhoV-D_Q/edit#gid=2112243867>`_
+- `Internal API - APIDog <http://docs-smile.badr.co.id/>`_
+- `API Documentation SMILE Integration Biofarma <https://badractive.sharepoint.com/:p:/s/SMILE-UNICC/EdDUXIJ8fF5Es0FGdqK4OHABru1NB-sPSgIXfPafbXuazg?e=TrAAve>`_
+- `API Documentation SMILE Daily Transaction (DTO) <https://badractive.sharepoint.com/:w:/s/SMILE-UNICC/EQAGW5947X5DjQ8-Iv-t-z0BMAONbxLoC2c2PbmqGBX2Ww?e=EfhJSM>`_
+- `API Documentation SMILE for AKI AKB <https://badractive.sharepoint.com/:w:/s/SMILE-UNICC/EVI1hPYf0VFNtsNpcnLyTLsBcMukDOovDjmuOwBb5iLEiQ?e=QaR6qC>`_
+- `IoT API Documentation <https://badractive.sharepoint.com/:w:/s/SMILE-UNICC/EQAeCLw9w_5MmitWGyM31akBHrp-emRSisYrzCC_kMGOfg?e=ZsjjX4>`_
+- `v0.3 - [PHASE OCT 20-MAR 21] User Stories - Smile Inventory Management UNDP <https://badractive.sharepoint.com/:x:/s/SMILE-UNICC/ETHLUEtLveFFp3sFxro0SbABtmhOPiqzJDBEat4Poni9PQ?e=G6ULCu>`_
+- `v0.4 - [PHASE APR-DEC 21] User Stories - Smile Inventory Management UNDP <https://badractive.sharepoint.com/:x:/s/SMILE-UNICC/EXwdaUTwM2NGqveoaNN3fMcBd9xbEDmUZzRShLABqhU8nw?e=eLc1J7>`_
+- `v0.3 - [PHASE DEC 20-MAR 21] User Stories - Fase 3 Smile UNDP <https://badractive.sharepoint.com/:x:/s/SMILE-UNICC/EWBuFX3QYApFkiYB4cQ7ziEBJo6skDlSDfOrtLG1UN25jQ?e=qdmKAY>`_
+- `User Stories - LTA & Maintenance 2022 <https://badractive.sharepoint.com/:x:/s/SMILE-UNICC/Efu8_KsYe0JBrbxuh1NWg6sBO_QsGua9URAdqCJDYEc6FA?e=o5gEU2>`_
+- `User Stories - LTA & Maintenance 2023 <https://badractive.sharepoint.com/:x:/s/SMILE-UNICC/EYsqdVCl7OVHuRXis1w360UBC2PFMwn63-kuKaBvLRhjJg?e=8U3U4L>`_
+- `Dashboard Mobile Software Requirement Specification <https://badractive.sharepoint.com/:w:/s/SMILE-UNICC/ESrwcwA3WBZLmcHKx8ByYacBeBHXegN50o1pRJf4bHQ7VA?e=2aIJ28>`_
 - `Core Transaction SMILE Mockup (Figma) <https://www.figma.com/file/ljJGXpfIZJ0xYXaeOecPZt/%F0%9F%92%BC-Store-Smile-v2.0?node-id=0%3A1>`_
-- `Core Transaction SMILE Mockup (Mockup) <https://drive.google.com/drive/folders/16PnQnLV1lhbZEtuDX1c0GzEraZd4NFSU?usp=sharing>`_
 - `Monitor SMILE Mockup (Figma) <https://www.figma.com/file/B6PmlRvL3hWyMGXgWYERLk/%F0%9F%92%BC-Monitor-SMILE-UNDP?node-id=1%3A12>`_
-- `Monitor SMILE Mockup (Google Drive) <https://drive.google.com/drive/folders/1NweHsypukpniTuhoinyXFUMo28H_W0tB?usp=sharing>`_
-- `source-smile-dashboard-mobile-23092021 <https://drive.google.com/drive/folders/1gUaGwTQccY0nR9p9drKej1bTrpWjbT8n?usp=sharing>`_
+- `source-smile-dashboard-mobile-23092021 <https://badractive.sharepoint.com/:f:/s/SMILE-UNICC/EkaQI54cUxVPimH3dw1C5F8BcDlbzl93k3sokt3ulEYXAA?e=k4eMxT>`_
 - `SMILE System Architecture Phase 1-3 <>`_
-- `Role Management v1.4.2 <https://docs.google.com/spreadsheets/d/1xe4QTy1stZz7Q5mduR6w8lbbTel_FEY08zH8fo1eKlE/edit?usp=sharing>`_
+- `Role Management v1.6.2 <https://badractive.sharepoint.com/:x:/s/SMILE-UNICC/EUVUcITHZQdIv0G2_pBJQLEBFrSk_nI_xU00gu3qxcjT5Q?e=guCepi>`_
 - `Smile Data Management & Security <>`_
 - `Test Case UAT OLTP <>`_
 - `Test Case UAT Dashboard <>`_
-- `Test Case UAT Dashboard Mobile <https://docs.google.com/document/d/1UBb02excfXMFBRyrSKxBBObFJm4847UB/edit>`_
-- `Backup and restore <https://docs.google.com/document/d/1h-1zQ0osdhjDA0CLDH6eIiT6JNPAPyPv9esl-tvCQPg/edit?usp=sharing>`_
+- `Test Case UAT Dashboard Mobile <https://badractive.sharepoint.com/:w:/s/SMILE-UNICC/EeuL_HAIl9dBjFii6cZAxAIBb3Sxu5U0qflB3R7s2gYnXw?e=iIaXmU>`_
+- `Backup and restore <>`_
 - `Security Test Document <>`_
 - `Load Test Document <>`_
-- `Role Management v1.4.2 <https://badractive.sharepoint.com/:w:/s/SMILE-UNICC/EXvsOTTVY-JAuRtMeZNYmtUBHAuVU7I25tulkay5tFrogQ?e=lKJftC>`_
